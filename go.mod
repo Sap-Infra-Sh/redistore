@@ -1,5 +1,7 @@
 module github.com/boj/redistore
 
+go 1.16
+
 require (
 	github.com/gomodule/redigo v2.0.0+incompatible
 	github.com/gorilla/securecookie v1.1.1
