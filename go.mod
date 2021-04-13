@@ -1,4 +1,4 @@
-module github.com/boj/redistore
+module github.com/Sap-Infra-Sh/redistore
 
 go 1.16
 
